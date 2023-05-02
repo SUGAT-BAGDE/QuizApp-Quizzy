@@ -36,7 +36,7 @@ next-env.d.ts
 
 
 # vscode
-.vscode
+/.vscode
 
 # intellij Idea
-.Idea
+/.idea
